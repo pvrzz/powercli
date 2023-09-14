@@ -4,4 +4,4 @@
 
 
 
-<img src="https://pbs.twimg.com/tweet_video_thumb/FqU42X5XgAAGk8f.jpg" alt="drawing" href="https://modrinth.com/modpack/power" width="200"/>
+<a href="https://modrinth.com/modpack/power"><img src="https://pbs.twimg.com/tweet_video_thumb/FqU42X5XgAAGk8f.jpg" alt="Get on Modrinth" width="200"></a>
