@@ -7,7 +7,8 @@
 
 ### Get it on Curseforge
 
-<a href="https://www.curseforge.com/minecraft/modpacks/powercli"><img src="https://pbs.twimg.com/tweet_video_thumb/FqU42X5XgAAGk8f.jpg" alt="Get it on CurseForge" width="200"></a>
+<a href="https://www.curseforge.com/minecraft/modpacks/powercli"><img src="https://cdn-images-1.medium.com/max/184/1*wGa66QwW2f7XEk6r1456yA@2x.jpeg" alt="Get it on CurseForge" width="200"></a>
+
 ## Screenshots
 <img src="https://cdn-raw.modrinth.com/data/pM7FJYjK/images/cf32b3bd0592c208960a4bc37f1a1ce85c3bf545.jpeg" alt="FPS Comparison" width="500">
 
